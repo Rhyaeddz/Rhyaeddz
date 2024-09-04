@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Rhyaeddz
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+👋 Hi, I’m Rafael Francisco, you can call me Rhyaed.
 
+* I’m currently learning Python.
+* Pronouns: he/him.
+* Fun fact: I was a baker.
 <!---
 Rhyaeddz/Rhyaeddz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
