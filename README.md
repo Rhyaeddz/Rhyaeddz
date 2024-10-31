@@ -3,7 +3,7 @@
 * I’m currently learning Python.
 * Pronouns: he/him.
 * Fun fact: Former baker who loves creating sweet solutions!
-* Connect with me: [![Instagram @Rhyaeddz](link-da-imagem-combinada)](https://www.instagram.com/Rhyaeddz)
+* Connect with me: <a href="https://www.instagram.com/Rhyaeddz" target="_blank"><img src="link-da-imagem-combinada" alt="Instagram @Rhyaeddz" width="20" /></a>
 
 
 
