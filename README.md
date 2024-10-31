@@ -1,9 +1,9 @@
-👋 Hi, I’m Rafael Francisco, you can call me Rhyaed.
+👋 Hi, I’m Rafael Francisco, but you can call me Rhyaed. I’m a passionate learner exploring the world of programming, focusing on Python. 
 
 * I’m currently learning Python.
 * Pronouns: he/him.
-* Fun fact: Former baker.
-<!---
-Rhyaeddz/Rhyaeddz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Fun fact: Former baker who loves creating sweet solutions!
+* Connect with me: [![Instagram @Rhyaeddz](link-da-imagem-combinada)](https://www.instagram.com/Rhyaeddz)
+
+
+
